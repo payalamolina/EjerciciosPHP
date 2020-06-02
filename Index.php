@@ -6,6 +6,7 @@
 
     <ul>
         <li><a href="Ejercicio2.php" target="_new">Ejercicio 2</a></li>
+        <li><a href="Ejercicio3.php" target="_new">Ejercicio 2</a></li>
     </ul>
 
 </body>
