@@ -16,8 +16,9 @@
 
     for ($i=10;$i>=0;$i--)
     {
-        echo "<P>Finaliza ciclo for</p>";
+        echo "<p>$i</p>";
     }
+    echo "<P>Finaliza ciclo for</p>";
 
     $familia = array("Pablo", "Malenis", "Jonathan", "Melani");
 
@@ -26,14 +27,6 @@
         echo "<h2>$familia[$i] numero de elementos $i </h2>";
         echo "<br>"; 
     }
-
-    /*$x=1;
-    while ($x <= 10)
-    {
-        echo "El elemento es : $x <br>";
-        $x++
-    }*/
-
 ?>
 
 </body>
