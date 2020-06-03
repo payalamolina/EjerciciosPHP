@@ -14,7 +14,7 @@
     */
 
     echo "<h1>".$_GET['clase']."</h1>";
-    echo "<h2>".$GET['periodo']."</h2>";
+    echo "<h2>".$_GET['periodo']."</h2>";
 
     echo "<h1>".$GET['nombre']."</h1>";
     echo "<h2>".$GET['apellido']."</h2>";
